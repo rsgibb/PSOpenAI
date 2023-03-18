@@ -41,16 +41,3 @@ $response.choices[0].message.content
 This will send a message to the OpenAI chat endpoint using the default chat model gpt-3.5-turbo, with a temperature of 0.7 and a maximum of 100 tokens, and return a response containing the completion to your message.
 
 For more information on the OpenAI API and its parameters, please refer to the [OpenAI API reference](https://platform.openai.com/docs/api-reference).
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to the PSOpenAI module, please follow these steps:
-
-    Fork the repository and clone it to your local machine.
-    Create a new branch for your changes.
-    Make your changes and test them thoroughly.
-    Submit a pull request with a clear description of your changes and their purpose.
-
-## License
-
-The PSOpenAI module is licensed under the MIT License.
